@@ -3,7 +3,7 @@
 Documenting my journey through Python, LLM Ops, and JLPT N2."
 
 
-# Tokyo 2028 AI Journey
+
 
 ### Project Overview / プロジェクト概要
 This repository documents my technical progress as I prepare for a career as an AI Engineer in Tokyo. 
