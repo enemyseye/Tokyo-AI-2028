@@ -22,3 +22,6 @@ This repository documents my technical progress as I prepare for a career as an 
 
 * **Jan 7, 2026:** Completed the first full week. Analyzed progress vs. goals and committed to the 4:30 AM optimal timetable to increase study hours.
 * **2026年1月7日:** 最初の1週間が終了。目標に対する進捗を分析し、学習時間を増やすために4:30開始の「最適タイムテーブル」の遵守を再決意。
+
+* **Jan 8, 2026:** Completed the Chapter 1-8 exercise marathon. Struggled with environmental friction (cold) and digital distractions, but maintained the 4:30 AM wake-up habit.
+* **2026年1月8日:** 第1〜8章の演習マラソンを完了。寒さなどの環境的要因や娯楽の誘惑に苦戦したが、4:30起きの習慣は維持。
